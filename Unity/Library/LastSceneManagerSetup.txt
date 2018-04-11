@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Master/All Versions/Iterations/HolyandBlue_068_SchoolEdition.unity
+  isLoaded: 1
+  isActive: 1
