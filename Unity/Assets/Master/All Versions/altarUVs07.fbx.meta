@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: f656357c3c78df04e8af2c65bef7416c
+timeCreated: 1522996125
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: aNewArch13:archItself1
+    100004: aNewArch13:archItself2
+    100006: aNewArch13:pCube10
+    100008: aNewArch13:pCube12
+    100010: aNewArch13:pCube8
+    100012: aNewArch13:pCube9
+    100014: aNewArch13:topWindowCopy1
+    100016: aNewArch13:topWindowCopy3
+    100018: aNewArch13:transform10
+    100020: aNewArch13:transform12
+    100022: aNewArch13:transform14
+    100024: aNewArch13:transform15
+    100026: aNewArch13:transform16
+    100028: aNewArch13:transform17
+    100030: aNewArch13:transform2
+    100032: aNewArch13:transform20
+    100034: aNewArch13:transform4
+    100036: aNewArch13:transform5
+    100038: aNewArch13:transform6
+    100040: aNewArch13:transform8
+    100042: aNewArch13:windowFrame
+    100044: aNewArch13:windowFrame10
+    100046: aNewArch13:windowFrame11
+    100048: aNewArch13:windowFrame2
+    100050: Ceiling_Ridge
+    100052: L_Ridge
+    100054: L_Ridge1
+    100056: L_Ridge2
+    100058: R_Ridge
+    100060: temple
+    400000: //RootNode
+    400002: aNewArch13:archItself1
+    400004: aNewArch13:archItself2
+    400006: aNewArch13:pCube10
+    400008: aNewArch13:pCube12
+    400010: aNewArch13:pCube8
+    400012: aNewArch13:pCube9
+    400014: aNewArch13:topWindowCopy1
+    400016: aNewArch13:topWindowCopy3
+    400018: aNewArch13:transform10
+    400020: aNewArch13:transform12
+    400022: aNewArch13:transform14
+    400024: aNewArch13:transform15
+    400026: aNewArch13:transform16
+    400028: aNewArch13:transform17
+    400030: aNewArch13:transform2
+    400032: aNewArch13:transform20
+    400034: aNewArch13:transform4
+    400036: aNewArch13:transform5
+    400038: aNewArch13:transform6
+    400040: aNewArch13:transform8
+    400042: aNewArch13:windowFrame
+    400044: aNewArch13:windowFrame10
+    400046: aNewArch13:windowFrame11
+    400048: aNewArch13:windowFrame2
+    400050: Ceiling_Ridge
+    400052: L_Ridge
+    400054: L_Ridge1
+    400056: L_Ridge2
+    400058: R_Ridge
+    400060: temple
+    2300000: Ceiling_Ridge
+    2300002: L_Ridge
+    2300004: L_Ridge1
+    2300006: L_Ridge2
+    2300008: R_Ridge
+    2300010: temple
+    3300000: Ceiling_Ridge
+    3300002: L_Ridge
+    3300004: L_Ridge1
+    3300006: L_Ridge2
+    3300008: R_Ridge
+    3300010: temple
+    4300000: temple
+    4300002: L_Ridge
+    4300004: R_Ridge
+    4300006: Ceiling_Ridge
+    4300008: L_Ridge1
+    4300010: L_Ridge2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
