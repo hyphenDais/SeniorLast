@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 4e43d8aaca724104d87c9b170a913566
+timeCreated: 1518464622
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: coralTop
+    100002: coralTop 1
+    100004: coralTop 2
+    100006: coralTop 3
+    100008: coralTop1
+    100010: coralTop1 1
+    100012: coralTop1 2
+    100014: coralTop1 3
+    100016: coralTop2
+    100018: coralTop2 1
+    100020: coralTop2 2
+    100022: coralTop2 3
+    100024: coralTop3
+    100026: coralTop3 1
+    100028: coralTop3 2
+    100030: coralTop3 3
+    100032: coralTop4
+    100034: coralTop4 1
+    100036: coralTop4 2
+    100038: coralTop4 3
+    100040: coralTop5
+    100042: coralTop5 1
+    100044: coralTop5 2
+    100046: coralTop5 3
+    100048: coralTop6
+    100050: coralTop6 1
+    100052: coralTop6 2
+    100054: coralTop6 3
+    100056: coralTop7
+    100058: coralTop7 1
+    100060: coralTop8
+    100062: coralTop8 1
+    100064: group1
+    100066: group1 1
+    100068: group2
+    100070: group2 1
+    100072: group3
+    100074: group4
+    100076: pCylinder1
+    100078: //RootNode
+    400000: coralTop
+    400002: coralTop 1
+    400004: coralTop 2
+    400006: coralTop 3
+    400008: coralTop1
+    400010: coralTop1 1
+    400012: coralTop1 2
+    400014: coralTop1 3
+    400016: coralTop2
+    400018: coralTop2 1
+    400020: coralTop2 2
+    400022: coralTop2 3
+    400024: coralTop3
+    400026: coralTop3 1
+    400028: coralTop3 2
+    400030: coralTop3 3
+    400032: coralTop4
+    400034: coralTop4 1
+    400036: coralTop4 2
+    400038: coralTop4 3
+    400040: coralTop5
+    400042: coralTop5 1
+    400044: coralTop5 2
+    400046: coralTop5 3
+    400048: coralTop6
+    400050: coralTop6 1
+    400052: coralTop6 2
+    400054: coralTop6 3
+    400056: coralTop7
+    400058: coralTop7 1
+    400060: coralTop8
+    400062: coralTop8 1
+    400064: group1
+    400066: group1 1
+    400068: group2
+    400070: group2 1
+    400072: group3
+    400074: group4
+    400076: pCylinder1
+    400078: //RootNode
+    2300000: coralTop
+    2300002: coralTop 1
+    2300004: coralTop 2
+    2300006: coralTop 3
+    2300008: coralTop1
+    2300010: coralTop1 1
+    2300012: coralTop1 2
+    2300014: coralTop1 3
+    2300016: coralTop2
+    2300018: coralTop2 1
+    2300020: coralTop2 2
+    2300022: coralTop2 3
+    2300024: coralTop3
+    2300026: coralTop3 1
+    2300028: coralTop3 2
+    2300030: coralTop3 3
+    2300032: coralTop4
+    2300034: coralTop4 1
+    2300036: coralTop4 2
+    2300038: coralTop4 3
+    2300040: coralTop5
+    2300042: coralTop5 1
+    2300044: coralTop5 2
+    2300046: coralTop5 3
+    2300048: coralTop6
+    2300050: coralTop6 1
+    2300052: coralTop6 2
+    2300054: coralTop6 3
+    2300056: coralTop7
+    2300058: coralTop7 1
+    2300060: coralTop8
+    2300062: coralTop8 1
+    2300064: pCylinder1
+    3300000: coralTop
+    3300002: coralTop 1
+    3300004: coralTop 2
+    3300006: coralTop 3
+    3300008: coralTop1
+    3300010: coralTop1 1
+    3300012: coralTop1 2
+    3300014: coralTop1 3
+    3300016: coralTop2
+    3300018: coralTop2 1
+    3300020: coralTop2 2
+    3300022: coralTop2 3
+    3300024: coralTop3
+    3300026: coralTop3 1
+    3300028: coralTop3 2
+    3300030: coralTop3 3
+    3300032: coralTop4
+    3300034: coralTop4 1
+    3300036: coralTop4 2
+    3300038: coralTop4 3
+    3300040: coralTop5
+    3300042: coralTop5 1
+    3300044: coralTop5 2
+    3300046: coralTop5 3
+    3300048: coralTop6
+    3300050: coralTop6 1
+    3300052: coralTop6 2
+    3300054: coralTop6 3
+    3300056: coralTop7
+    3300058: coralTop7 1
+    3300060: coralTop8
+    3300062: coralTop8 1
+    3300064: pCylinder1
+    4300000: pCylinder1
+    4300002: coralTop
+    4300004: coralTop1
+    4300006: coralTop2
+    4300008: coralTop3
+    4300010: coralTop4
+    4300012: coralTop5
+    4300014: coralTop6
+    4300016: coralTop7
+    4300018: coralTop8
+    4300020: coralTop
+    4300022: coralTop1
+    4300024: coralTop2
+    4300026: coralTop3
+    4300028: coralTop4
+    4300030: coralTop5
+    4300032: coralTop6
+    4300034: coralTop
+    4300036: coralTop1
+    4300038: coralTop2
+    4300040: coralTop3
+    4300042: coralTop4
+    4300044: coralTop5
+    4300046: coralTop6
+    4300048: coralTop7
+    4300050: coralTop8
+    4300052: coralTop
+    4300054: coralTop1
+    4300056: coralTop2
+    4300058: coralTop3
+    4300060: coralTop4
+    4300062: coralTop5
+    4300064: coralTop6
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
