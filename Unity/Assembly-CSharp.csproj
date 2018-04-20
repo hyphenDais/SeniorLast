@@ -57,12 +57,6 @@
      <Compile Include="Assets\Master\All Materials\Custom Materials\Sky FX Pack\Scripts\RayBehavior.cs" />
      <Compile Include="Assets\Master\All Materials\Custom Materials\Sky FX Pack\Scripts\RotateBehaviour.cs" />
      <Compile Include="Assets\Master\All Materials\Custom Materials\Sky FX Pack\Scripts\ScrollBehaviour.cs" />
-     <Compile Include="Assets\Master\All Materials\Materials\Custom Materials\Sky FX Pack\Scripts\LightBeamsControlScript.cs" />
-     <Compile Include="Assets\Master\All Materials\Materials\Custom Materials\Sky FX Pack\Scripts\LookAtBehaviour.cs" />
-     <Compile Include="Assets\Master\All Materials\Materials\Custom Materials\Sky FX Pack\Scripts\LookAtCameraBehaviour.cs" />
-     <Compile Include="Assets\Master\All Materials\Materials\Custom Materials\Sky FX Pack\Scripts\RayBehavior.cs" />
-     <Compile Include="Assets\Master\All Materials\Materials\Custom Materials\Sky FX Pack\Scripts\RotateBehaviour.cs" />
-     <Compile Include="Assets\Master\All Materials\Materials\Custom Materials\Sky FX Pack\Scripts\ScrollBehaviour.cs" />
      <Compile Include="Assets\Master\All Scripts\MainMenu.cs" />
      <Compile Include="Assets\Master\All Scripts\MovePlayer.cs" />
      <Compile Include="Assets\Master\All Scripts\Scripts\DeepWater.cs" />
